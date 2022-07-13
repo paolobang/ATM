@@ -164,4 +164,4 @@ Project Link: [https://github.com/paolobang/ATM](https://github.com/paolobang/AT
 [license-url]: https://github.com/paolobang/ATM/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
-[product-screenshot]: /assets/screen.gif
+[product-screenshot]: /assets/screen.png
