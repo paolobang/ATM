@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## :wave: Contact
 
-Rudy Huaman - [@paolobang](https://twitter.com/paolobang) - paolobang@gmail.com
+Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
 Project Link: [https://github.com/paolobang/ATM](https://github.com/paolobang/ATM)
 
