@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h1 align="center">Eye Excercise Project </h1>
+<h1 align="center">ATM</h1>
 
   <p align="center">
     <br />
@@ -51,7 +51,7 @@
 
 
 
-This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and is a web page with two eyes that follow your mouse movement. As you hover your mouse over the screen the two balls elements inside the oval elements follow the mouse cursor, simulating the effect of being followed by a person's eyes.
+This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses React components and you can Deposit or Cash Back. Interface shows a numeric keyword, and validates when no funds.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -104,8 +104,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## :dart: Roadmap
 
-- [ ] Improve css style
-- [ ] Add more effects to the eyes
+- [ ] Report of transactions
+- [ ] Login 
 
 See the [open issues](https://github.com/paolobang/ATM/issues) for a full list of proposed features (and known issues).
 
